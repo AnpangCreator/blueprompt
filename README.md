@@ -1,2 +1,2 @@
-# blueprompt
-The TileOS BluePrompt app.
+# BluePrompt
+The TileOS BluePrompt app's github repo.
